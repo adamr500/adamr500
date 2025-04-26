@@ -9,15 +9,7 @@ ROLE:
 
 
 AWARDS:
-
--🏆2024 Champs Winning Alliance🏆 
-
--🛠️2024 Champs Design Award🛠️ 
-
--🏆2024 Qualifier WAC🏆 
-
--🧠2024 Qualifier Design Award🧠 
-
--🏅2021 Division Finalist🏅 
-
--🤝2021 Motivate Award🤝
+-2025 Quali WAC+Inspire
+-2024 Champs WA+Design
+-2024 Quali WAC+Control
+-2021 Division Finalist+Motivate
